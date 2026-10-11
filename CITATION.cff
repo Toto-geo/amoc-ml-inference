@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release below."
+type: software
+title: "AMOC ML Inference"
+version: 1.0.0
+date-released: 2026-10-11
+doi: 10.5281/zenodo.23287700
+url: "https://github.com/Toto-geo/amoc-ml-inference"
+repository-code: "https://github.com/Toto-geo/amoc-ml-inference"
+license: BSD-3-Clause
+authors:
+  - family-names: Favaloro
+    given-names: Antonio
+    orcid: "https://orcid.org/0009-0000-9312-3111"

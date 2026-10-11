@@ -1,0 +1,16 @@
+._*
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+/verification/
+/data_preparation/data/
+/machine_learning/runs/
+/examples/minimal_end_to_end/generated/
+/paper_results/
